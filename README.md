@@ -31,13 +31,13 @@ An online retailer had 5 years of transaction data across 100,000+ orders but no
 
 ## Dashboard Screenshots
 ### Page 1 — Executive Overview
-![Executive Overview](POWER%20BI/page1_executive.png.png)
+![Executive Overview](page1_executive.png.png)
 
 ### Page 2 — Customer Analytics
-![Customer Analytics](POWER%20BI/page2_customer.png.png)
+![Customer Analytics](page2_customer.png.png)
 
 ### Page 3 — Product Analytics
-![Product Analytics](POWER%20BI/page3_product.png.png)
+![Product Analytics](page3_product.png.png)
 
 ## Business Recommendations
 1. **Re-engagement campaign** for at-risk customers — if 10% reactivated at avg CLV R$160, revenue uplift ~R$308,000
